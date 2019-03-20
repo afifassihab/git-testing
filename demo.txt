@@ -1,1 +1,2 @@
 this is my inital project in git
+adding more conetent
